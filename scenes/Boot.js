@@ -6,7 +6,7 @@ export default class Boot extends Phaser.Scene{
 
     //Loading images
     loadSprites(){
-        this.load.image('newTv', '../Sprites/images/newTv.png')
+        this.load.image('newTv', 'Sprites/images/newTv.png')
 
         this.load.image('doorSelect', '../Sprites/images/doorhighlight.png')
 

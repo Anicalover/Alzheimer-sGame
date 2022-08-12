@@ -3,19 +3,19 @@
         {
             "Name" : "Asther",
             "isDialog" : true,
-            "text" : "Uyy, ya estoy tarde para ir a la Repostería de Julie.",
+            "text" : "I think i'm going to be late for my meeting with EL MEJOL.",
             "frame" : 0
         },
         {
             "Name" : "Asther",
             "isDialog" : true,
-            "text" : "Pero primero debería de cambiarme en mi ropa de salir.",
+            "text" : "I should go and change into some nice clothing.",
             "frame" : 1
         },
         {
             "Name" : "Asther",
             "isDialog" : true,
-            "text" : "Bien! Hora de ir a donde Julie.",
+            "text" : "Alright! All set, let's go to Julie's shop.",
             "frame" : 2
         }
         
@@ -27,7 +27,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 0,
             "isDialog" : true,
-            "text" : "Asther! Al Fin llegas. Pense que me ibas a dejar hornear las galletitas sola.",
+            "text" : "Asther! You finally came here, I thought you were going to leave all those cookies for me to bake alone.",
             "frame" : 0
         },
         {
@@ -35,7 +35,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1,
             "isDialog" : true,
-            "text" : "Si! Perdoname la hora... Es que me distraje con mis series en la tv, hoy el drama estaba bueno.",
+            "text" : "Oh boy! It really is late... I'm sorry about that dear I got distracted by my Tv Shows.",
             "frame" : 1
         },
         {
@@ -43,7 +43,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 1,
             "isDialog" : true,
-            "text" : "Tu y tus series, esta bien, no me importaria esperar por ti por par de horas. Como sea tenia que atender a los clientes. Hoy ha sido un dia ocupado. Como sea no quisiera empezar a hacer las galletitas sin ti.",
+            "text" : "You and your tv shows, it's ok, a few hours of waiting don't do much to me, I entertained myself with costumers and other stuff. I would want to start these cookies without you honestly.",
             "frame" : 2
         },
         {
@@ -51,7 +51,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 3,
             "isDialog": true,
-            "text" : "Estas en lo correcto! Siempre es mejor hacer galletitas con un ser querido.",
+            "text" : "It's Always best with a buddy next to you!",
             "frame" : 3
         },
         {
@@ -59,7 +59,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 0,
             "isDialog" : true,
-            "text" : "Claro! Si saben hornear. Haha!",
+            "text" : "If they can bake of course.",
             "frame": 4
         },
         {
@@ -67,7 +67,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 0,
             "isDialog" : true,
-            "text" : "Bueno, ya es tiempo. Vamos a hacer las galletitas.",
+            "text" : "Well, it's time to get those cookies going.",
             "frame" : 5
         }
     ],
@@ -79,7 +79,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 2, 
             "isDialog" : true,
-            "text" : "Mar que paso aqui!?!? No puedo creer el desastre que hiciste!!!!",
+            "text" : "Mar I can't believe you right now, What is all this mess?!?",
             "frame" : 0
         },
         {
@@ -87,14 +87,14 @@
             "spriteSheet" : "marAvatar",
             "imageFrame" : 1,
             "isDialog" : true,
-            "text" : "Perdona mama, es que queria cocinar como tu!",
+            "text" : "Im sorry, I just wanted to cook like you",
             "frame" : 1
         },
         {
             "name" : "Julie",
             "spriteSheet" : "julieAvatar",
             "isDialog" : true,
-            "text" : "Bueno Bueno, Yo recogere esto con Asther y hablaremos luego. Sube a tu cuarto señorita!",
+            "text" : "Alright, I'll take care of this mess just go back up to the house and we'll talk about this later.",
             "frame" : 2
         },
         {
@@ -102,7 +102,7 @@
             "spriteSheet" : "marAvatar",
             "imageFrame" : 1,
             "isDialog" : true,
-            "text" : "Si mama....",
+            "text" : "Yes moooom...",
             "frame" : 3
         },
         {
@@ -110,7 +110,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 0, 
             "isDialog" : true,
-            "text" : "Mar puede ser mucho a veces.",
+            "text" : "Oh that child can be a handful sometimes.",
             "frame" : 4
         },
         {
@@ -118,7 +118,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 0, 
             "isDialog" : true,
-            "text" : "Parece que destruyo todos los huevos tambien. Me podrias ayudar con el lodo que ha dejado? ",
+            "text" : "Looks like she destroyed all of the eggs too… Well, would you help me clean this mess please?",
             "frame" : 5
         }
     ],
@@ -129,7 +129,7 @@
             "spriteSheet" : "julieAvatar",
             "imageFrame" : 3, 
             "isDialog" : true,
-            "text" : "Muchas Gracias por la Ayuda! Lo otro me lo dejas a mi. Mientras termino de recoger, podrias comprar los huevos en el mercado de al lado.",
+            "text" : "Thank you for helping me clean this up. Could you please go to the merchant next door and buy some eggs",
             "frame" : 0
         },
         {
@@ -137,7 +137,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Claro! no es molestia.",
+            "text" : "Of course! its no bother at all.",
             "frame" : 1
         }
     ],
@@ -148,7 +148,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Hola! Veo que eres nuevo por aqui.",
+            "text" : "Hello! I see you are new here in town.",
             "frame" : 0
         },
         {
@@ -156,7 +156,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 0, 
             "isDialog" : true,
-            "text" : "Si, solo he estado aqui por como 2 semanas.",
+            "text" : "Oh yea, I've only been in town for about 2 weeks or so.",
             "frame" : 1
         },
         {
@@ -164,7 +164,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Que bien! es bueno ver a nuestro pueblo crecer, antes no era asi de grande. Ya recuerdo de chiquita que apenas habian personas alrededor.",
+            "text" : "That's lovely, it's always nice to see new people in town. Every time I come to town it feels like there is more people around. It is so nice to see our small town grow.",
             "frame" : 2
         },
         {
@@ -172,7 +172,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 0, 
             "isDialog" : true,
-            "text" : "Ahora que lo dice, este pueblito parece crecer bien rapido. Tal vez me quedare por mas de lo esperado.",
+            "text" : "Now that you mention it, it does seem to be a growing town, maybe ill stay here for longer than imagined.",
             "frame" : 3
         },
         {
@@ -180,7 +180,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Haha! estare encantada de verte alreadedor del pueblo.",
+            "text" : "Oh hoho, thats great, I will definitely be looking forward to seeing you around.",
             "frame" : 4
         },
         {
@@ -188,7 +188,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 0, 
             "isDialog" : true,
-            "text" : "Ah Si! Mi nombre es Micky.",
+            "text" : "Oh by the way, the names Micky.",
             "frame" : 5
         },
         {
@@ -196,7 +196,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Vaya! Que lindo nombre.",
+            "text" : "Such a nice name for such handsome boy.",
             "frame" : 6
         },
         {
@@ -204,7 +204,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Ya ya para que me sonrojas. Que te trae por aca? Vendo todo  al precio mas barato posible. Sin mencionar la mejor calidad.",
+            "text" : "Oh you're going to make me blush, What brings you here anyways, I sell everything at the cheapest price, not to mention the best products of their kind.",
             "frame" : 7
         },
         {
@@ -212,7 +212,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Super! me podras dar media docena huevos?",
+            "text" : "Thats great my dear, how much will it be for a few eggs? Maybe half a dozen eggs?",
             "frame" : 8
         },
         {
@@ -220,7 +220,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Eres suertuda, ese producto lo tengo fresco y lo produce mi gallina Patricia. Normalmente lo venderia a 20 dolares pero a ti te los vendere por 5.",
+            "text" : "Boy you are in luck, I make my own produce coming from beautiful Patricia over there, They are about 20$ but since you seem to be such a  beautiful lady, I'll leave them for 5$. What do you say?",
             "frame" : 9
         },
         {
@@ -228,7 +228,7 @@
             "spriteSheet" : "astherAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Wow! Muchas Gracias! que zorro mas generoso, claro que tomare este gran descuento.",
+            "text" : "Such a discount, you are so nice, I will definitely take this great discount.",
             "frame" : 10
         },
         {
@@ -236,7 +236,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 1, 
             "isDialog" : true,
-            "text" : "Que Bien! Aca estan tus huevos.",
+            "text" : "Alright, I'm glad you took this opportunity, here you go.",
             "frame" : 11
         }
     ],
@@ -247,7 +247,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Ya volviste con los huevos? Eso fue rapido!",
+            "text": "You are back, that was quick! Did you get the eggs.",
             "frame" : 0
         },
         {
@@ -255,7 +255,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Si! y el vendedor me dio un descuento, muy bueno!",
+            "text": "Yea, the merchant was really nice and he even gave me a discount for the eggs.",
             "frame" : 1
         },
         {
@@ -263,7 +263,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Que bien! Me alegra que te haya dado un descuento. Bueno, Vamos a hacer las galletitas.",
+            "text": "That's really nice from him, Well, we should go and prepare the cookies.",
             "frame" : 2
         }
     ],
@@ -281,7 +281,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Bueno, lo que haremos es lo siguiente. Yo te pedire los ingredientes y van a aparecer en la pantalla. Acercate a los ingrdedientes y luego usa tu cursor y presiona a los ingredientes para cogerlos. Luego ven hacia donde mi y me presionas para yo mezclarlos en el tazon.",
+            "text": "So what we are going to do, you get me the items by clicking them with your cursor, then you will bring it back to me and I will mix them together in the bowl over there.",
             "frame" : 1
         },
         {
@@ -289,7 +289,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "No tendremos mucho tiempo asi que trata de ser lo mas rapida posible.",
+            "text": "We have limited time to do these cookies so you gotta be fast, not that its hard for you since you've always been the fast one.",
             "frame" : 2
         },
         {
@@ -297,7 +297,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Bien! Vamos a empezar.",
+            "text": "Alright, let's get started.",
             "frame" : 3
         },
         {
@@ -305,7 +305,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Me consigues la Harina? ",
+            "text": "Can you get me the flour? ",
             "frame" : 4
         },
         {
@@ -313,7 +313,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "ahora la mantequilla.",
+            "text": "and the butter.",
             "frame" : 5
         },
         {
@@ -321,7 +321,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "luego los huevos.",
+            "text": "Now give me the eggs.",
             "frame" : 6
         },
         {
@@ -329,7 +329,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Dame la leche porfavor.",
+            "text": "Now give me the Milk.",
             "frame" : 7
         },
         {
@@ -337,7 +337,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Sigue el azucar.",
+            "text": "Next up is the sugar.",
             "frame" : 8
         },
         {
@@ -345,7 +345,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Y finalmente extracto de vainilla.",
+            "text": "Finally some vanilla extract.",
             "frame" : 9
         }
     ],
@@ -355,7 +355,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Eso estuvo genial!",
+            "text": "That was awesome, we did a great job!",
             "frame" : 0
         },
         {
@@ -363,7 +363,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Aca estan las galletitas. Deberias de llevarle una al vendedor por darte ese descuento.",
+            "text": "Here are the cookies, You should actually go and give the merchant some of the cookies we made as a thanks for the discount.",
             "frame" : 1
         },
         {
@@ -371,7 +371,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Si! que buena idea, se la llevare ya.",
+            "text": "Oh that's a great idea.",
             "frame" : 2
         }
     ],
@@ -381,7 +381,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Hola! Veo que eres nuevo en el pueblo!",
+            "text": "Hi! I see you are new here in town.",
             "frame" : 0
         },
         {
@@ -389,7 +389,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 2,
             "isDialog": true,
-            "text": "Como? ...Oh si. Hola! Como andas señorita.",
+            "text": "Oh... uhhh Hi, how are you doing?",
             "frame" : 1
         },
         {
@@ -397,7 +397,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Estoy bien, Gracias por preguntar!",
+            "text": "Doing really well thank you for asking ",
             "frame" : 2
         },
         {
@@ -405,7 +405,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Que bien! Me alegro. Va, y que quieres comprar?",
+            "text": "I'm glad you're doing good darling. So, What do you want buy?",
             "frame" : 3
         },
         {
@@ -413,7 +413,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Bueno, Vine buscando una docena de huevos.",
+            "text": "Well I came here to look for some eggs, about 6 of them.",
             "frame" : 4
         },
         {
@@ -421,7 +421,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Ah! Bueno, creo que te podre dar el descuento de nuevo. Eso sera 5 dolares para la señorita. Para que necesitas tantos huevos? ",
+            "text": "Alright, I guess I could give you that discount again, that'll be 5$. Why do you need so many eggs?",
             "frame" : 5
         },
         {
@@ -429,7 +429,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "De nuevo...? Bueno eso no importa. Ire a hornear galletitas con... Uh... Jules",
+            "text": "Again...? Neveming that. Well, I am going to cook some cookies next door with the baker- uhhh Jules.",
             "frame" : 6
         },
         {
@@ -437,7 +437,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Uyy que rico. He escuchado que esas galletitas son muy buenas. Ojala las pueda probar antes de que se acaben.",
+            "text": "Thats great, I hope I get to taste those before they're gone, I heard they're pretty good.",
             "frame" : 7
         },
         {
@@ -445,7 +445,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Bueno, dejame buscar el dine- Oh! Parece que aqui tengo una de las galletitas. la quieres?",
+            "text": "Now let me look for the mo- Oh my dear, I have a cookie here myself, Do you want it?",
             "frame" : 8
         },
         {
@@ -453,7 +453,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Que si la quiero?? Claro! es mas, te dare los huevos gratis. Mira, aqui los tienes.",
+            "text": "Do I?!?! Of course, tell you what, I'll give you the eggs for free, here you go.",
             "frame" : 9
         },
         {
@@ -461,7 +461,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Wow!! Que generoso eres! Me podrias decir tu nombre?",
+            "text": "Oh my, what a generous fox, thank you so much. What is your name?",
             "frame" : 10
         },
         {
@@ -469,7 +469,7 @@
             "spriteSheet": "foxAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Mi nombre es Micky, Se que es un nombre dificil de recordar asi que me puedes preguntar cuantas veces quieras. Ya somos como familia.",
+            "text": "The name's Micky, I know it can be hard to remember so you can ask, dont feel bad about it. We are basically family by now anyways.",
             "frame" : 11
         }
     ],
@@ -479,7 +479,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Ah! Hola! ya volviste",
+            "text": "Oh hi, you are back already!",
             "frame" : 0
         },
         {
@@ -487,7 +487,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Ju-Jules.... ? Si... Aqui tengo los huevos.",
+            "text": "Ju-Jules.... ? yea, I have the eggs here.",
             "frame" : 1
         },
         {
@@ -495,7 +495,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Hey, Te sientes bien?",
+            "text": "Hey, are you ok? is everything alright?",
             "frame" : 2
         },
         {
@@ -503,7 +503,7 @@
             "spriteSheet": "astherAvatar",
             "imageFrame": 1,
             "isDialog": true,
-            "text": "Si si... me siento bien, Conseguiste un nuevo cajero? ",
+            "text": "Yea yea, I'm alright, Did you get a new cashier working for you?",
             "frame" : 3
         },
         {
@@ -511,7 +511,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text": "Ummmm, no, Este es Richie, estas bien? Te sientes cansada.",
+            "text": "Ummmm, no, this is Richie- Are you ok? are you feeling a little tired?",
             "frame" : 4
         },
         {
@@ -527,7 +527,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text" : "Pienso que deberias de ir a descansar a tu casa, Mira yo te acompañare a la casa.",
+            "text" : "I think you should go and get some rest in your house. Here, I'll accompany you.",
             "frame" : 6
         }
     ],
@@ -537,7 +537,7 @@
             "spriteSheet": "julieAvatar",
             "imageFrame": 0,
             "isDialog": true,
-            "text" : "Bien, descansa aca y dejame ir a buscar agua en la cocina.",
+            "text" : "Alright, Wait here I am going to go and get some water",
             "frame" : 0
         },
         {
@@ -556,7 +556,7 @@
             "spriteSheet" : "foxAvatar",
             "imageFrame" : 0,
             "isDialog" : true,
-            "text" : "Hola...",
+            "text" : "Hello...",
             "frame" : 0
         }
     ]

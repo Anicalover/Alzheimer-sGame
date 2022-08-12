@@ -2,32 +2,32 @@
     "Quests" : [
         {
             "isQuests" : true,
-            "text" : "Go to the Wardrobe to change your clothes.",
+            "text" : "Ve a cambiarte al armario.",
             "frame": 0
         },
         {
             "isQuests" : true,
-            "text" : "Go to Julie's Bakery to meet with Julie.",
+            "text" : "Ve a la reposteria de Julie en el pueblo y habla con Julie.",
             "frame" : 1
         },
         {
             "isQuests": true,
-            "text" : "Help Julie clean the mess Mar made in the kitchen",
+            "text" : "Ayuda a Julie a limpiar el desastre que hizo Mar.",
             "frame" : 2
         },
         {
             "isQuests" : true,
-            "text" : "Go to the Merchant next door and buy some eggs.",
+            "text" : "Ve a donde el Vendedor y compra 6 huevos.",
             "frame" : 3
         },
         {
             "isQuests": true,
-            "text" : "Go Back to Julie's to make some cookies with Julie.",
+            "text" : "Regresa a la reposteria de Julie a hacer las galletitas.",
             "frame" : 4
         },
         {
             "isQuests" : true,
-            "text" : "Go back to the Merchant to give him one of the cookies.",
+            "text" : "Devuelvete a donde el vendedor y dale la galletita que Julie y tu hicieron.",
             "frame" : 5
         }
     ]

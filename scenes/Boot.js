@@ -6,11 +6,11 @@ export default class Boot extends Phaser.Scene{
 
     //Loading images
     loadSprites(){
-        this.load.image('newTv', '../sprites/images/newTv.png')
+        this.load.image('newTv', 'Alzheimer-sGame/Sprites/images/newTv.png')
 
         this.load.image('doorSelect', '../Sprites/images/doorhighlight.png')
 
-        this.load.image('home', '../sprites/images/astherHome.png')
+        this.load.image('home', '../Sprites/images/astherHome.png')
 
         this.load.image('wardrobe', '../Sprites/images/wardrobeHighlight.png')
 

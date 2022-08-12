@@ -1,0 +1,563 @@
+ {
+    "FirstDialog" : [
+        {
+            "Name" : "Asther",
+            "isDialog" : true,
+            "text" : "I think i'm going to be late for my meeting with EL MEJOL.",
+            "frame" : 0
+        },
+        {
+            "Name" : "Asther",
+            "isDialog" : true,
+            "text" : "I should go and change into some nice clothing.",
+            "frame" : 1
+        },
+        {
+            "Name" : "Asther",
+            "isDialog" : true,
+            "text" : "Alright! All set, let's go to Julie's shop.",
+            "frame" : 2
+        }
+        
+    ],
+
+    "SecondDialog": [
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 0,
+            "isDialog" : true,
+            "text" : "Asther! You finally came here, I thought you were going to leave all those cookies for me to bake alone.",
+            "frame" : 0
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1,
+            "isDialog" : true,
+            "text" : "Oh boy! It really is late... I'm sorry about that dear I got distracted by my Tv Shows.",
+            "frame" : 1
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 1,
+            "isDialog" : true,
+            "text" : "You and your tv shows, it's ok, a few hours of waiting don't do much to me, I entertained myself with costumers and other stuff. I would want to start these cookies without you honestly.",
+            "frame" : 2
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 3,
+            "isDialog": true,
+            "text" : "It's Always best with a buddy next to you!",
+            "frame" : 3
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 0,
+            "isDialog" : true,
+            "text" : "If they can bake of course.",
+            "frame": 4
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 0,
+            "isDialog" : true,
+            "text" : "Well, it's time to get those cookies going.",
+            "frame" : 5
+        }
+    ],
+    
+    "ThirdDialog": [
+
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 2, 
+            "isDialog" : true,
+            "text" : "Mar I can't believe you right now, What is all this mess?!?",
+            "frame" : 0
+        },
+        {
+            "name": "Mar",
+            "spriteSheet" : "marAvatar",
+            "imageFrame" : 1,
+            "isDialog" : true,
+            "text" : "Im sorry, I just wanted to cook like you",
+            "frame" : 1
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "isDialog" : true,
+            "text" : "Alright, I'll take care of this mess just go back up to the house and we'll talk about this later.",
+            "frame" : 2
+        },
+        {
+            "name" : "Mar",
+            "spriteSheet" : "marAvatar",
+            "imageFrame" : 1,
+            "isDialog" : true,
+            "text" : "Yes moooom...",
+            "frame" : 3
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 0, 
+            "isDialog" : true,
+            "text" : "Oh that child can be a handful sometimes.",
+            "frame" : 4
+        },
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 0, 
+            "isDialog" : true,
+            "text" : "Looks like she destroyed all of the eggs too… Well, would you help me clean this mess please?",
+            "frame" : 5
+        }
+    ],
+
+    "FourthDialog" : [
+        {
+            "name" : "Julie",
+            "spriteSheet" : "julieAvatar",
+            "imageFrame" : 3, 
+            "isDialog" : true,
+            "text" : "Thank you for helping me clean this up. Could you please go to the merchant next door and buy some eggs",
+            "frame" : 0
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Of course! its no bother at all.",
+            "frame" : 1
+        }
+    ],
+
+    "FifthDialog" : [
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Hello! I see you are new here in town.",
+            "frame" : 0
+        },
+        {
+            "name" : "???",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 0, 
+            "isDialog" : true,
+            "text" : "Oh yea, I've only been in town for about 2 weeks or so.",
+            "frame" : 1
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "That's lovely, it's always nice to see new people in town. Every time I come to town it feels like there is more people around. It is so nice to see our small town grow.",
+            "frame" : 2
+        },
+        {
+            "name" : "???",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 0, 
+            "isDialog" : true,
+            "text" : "Now that you mention it, it does seem to be a growing town, maybe ill stay here for longer than imagined.",
+            "frame" : 3
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Oh hoho, thats great, I will definitely be looking forward to seeing you around.",
+            "frame" : 4
+        },
+        {
+            "name" : "Micky",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 0, 
+            "isDialog" : true,
+            "text" : "Oh by the way, the names Micky.",
+            "frame" : 5
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Such a nice name for such handsome boy.",
+            "frame" : 6
+        },
+        {
+            "name" : "Micky",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Oh you're going to make me blush, What brings you here anyways, I sell everything at the cheapest price, not to mention the best products of their kind.",
+            "frame" : 7
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Thats great my dear, how much will it be for a few eggs? Maybe half a dozen eggs?",
+            "frame" : 8
+        },
+        {
+            "name" : "Micky",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Boy you are in luck, I make my own produce coming from beautiful Patricia over there, They are about 20$ but since you seem to be such a  beautiful lady, I'll leave them for 5$. What do you say?",
+            "frame" : 9
+        },
+        {
+            "name" : "Asther",
+            "spriteSheet" : "astherAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Such a discount, you are so nice, I will definitely take this great discount.",
+            "frame" : 10
+        },
+        {
+            "name" : "Micky",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 1, 
+            "isDialog" : true,
+            "text" : "Alright, I'm glad you took this opportunity, here you go.",
+            "frame" : 11
+        }
+    ],
+
+    "SixthDialog" : [
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "You are back, that was quick! Did you get the eggs.",
+            "frame" : 0
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Yea, the merchant was really nice and he even gave me a discount for the eggs.",
+            "frame" : 1
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "That's really nice from him, Well, we should go and prepare the cookies.",
+            "frame" : 2
+        }
+    ],
+    "SeventhDialog" : [
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Alright, lets do this. Let me explain a little bit what we have to do, I know you can be a little forgetful.",
+            "frame" : 0
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "So what we are going to do, you get me the items by clicking them with your cursor, then you will bring it back to me and I will mix them together in the bowl over there.",
+            "frame" : 1
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "We have limited time to do these cookies so you gotta be fast, not that its hard for you since you've always been the fast one.",
+            "frame" : 2
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Alright, let's get started.",
+            "frame" : 3
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Can you get me the flour? ",
+            "frame" : 4
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "and the butter.",
+            "frame" : 5
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Now give me the eggs.",
+            "frame" : 6
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Now give me the Milk.",
+            "frame" : 7
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Next up is the sugar.",
+            "frame" : 8
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Finally some vanilla extract.",
+            "frame" : 9
+        }
+    ],
+    "EightDialog": [
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "That was awesome, we did a great job!",
+            "frame" : 0
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Here are the cookies, You should actually go and give the merchant some of the cookies we made as a thanks for the discount.",
+            "frame" : 1
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Oh that's a great idea.",
+            "frame" : 2
+        }
+    ],
+    "NinthDialog":[
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Hi! I see you are new here in town.",
+            "frame" : 0
+        },
+        {
+            "name": "???",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 2,
+            "isDialog": true,
+            "text": "Oh... uhhh Hi, how are you doing?",
+            "frame" : 1
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Doing really well thank you for asking ",
+            "frame" : 2
+        },
+        {
+            "name": "???",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "I'm glad you're doing good darling. So, What do you want buy?",
+            "frame" : 3
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Well I came here to look for some eggs, about 6 of them.",
+            "frame" : 4
+        },
+        {
+            "name": "???",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Alright, I guess I could give you that discount again, that'll be 5$. Why do you need so many eggs?",
+            "frame" : 5
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Again...? Neveming that. Well, I am going to cook some cookies next door with the baker- uhhh Jules.",
+            "frame" : 6
+        },
+        {
+            "name": "???",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Thats great, I hope I get to taste those before they're gone, I heard they're pretty good.",
+            "frame" : 7
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Now let me look for the mo- Oh my dear, I have a cookie here myself, Do you want it?",
+            "frame" : 8
+        },
+        {
+            "name": "???",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Do I?!?! Of course, tell you what, I'll give you the eggs for free, here you go.",
+            "frame" : 9
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Oh my, what a generous fox, thank you so much. What is your name?",
+            "frame" : 10
+        },
+        {
+            "name": "Micky",
+            "spriteSheet": "foxAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "The name's Micky, I know it can be hard to remember so you can ask, dont feel bad about it. We are basically family by now anyways.",
+            "frame" : 11
+        }
+    ],
+    "TenthDialog" : [
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Oh hi, you are back already!",
+            "frame" : 0
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Ju-Jules.... ? yea, I have the eggs here.",
+            "frame" : 1
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Hey, are you ok? is everything alright?",
+            "frame" : 2
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": "Yea yea, I'm alright, Did you get a new cashier working for you?",
+            "frame" : 3
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text": "Ummmm, no, this is Richie- Are you ok? are you feeling a little tired?",
+            "frame" : 4
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text": ". . .",
+            "frame" : 5
+        },
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text" : "I think you should go and get some rest in your house. Here, I'll accompany you.",
+            "frame" : 6
+        }
+    ],
+    "FinishingQuest": [
+        {
+            "name": "Julie",
+            "spriteSheet": "julieAvatar",
+            "imageFrame": 0,
+            "isDialog": true,
+            "text" : "Alright, Wait here I am going to go and get some water",
+            "frame" : 0
+        },
+        {
+            "name": "Asther",
+            "spriteSheet": "astherAvatar",
+            "imageFrame": 1,
+            "isDialog": true,
+            "text" : "Alright, I will be here waiting.",
+            "frame" : 1
+        }
+    ],
+
+    "QuestNotDone": [
+        {
+            "name" : "???",
+            "spriteSheet" : "foxAvatar",
+            "imageFrame" : 0,
+            "isDialog" : true,
+            "text" : "Hello...",
+            "frame" : 0
+        }
+    ]
+}

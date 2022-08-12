@@ -1,0 +1,34 @@
+{
+    "Quests" : [
+        {
+            "isQuests" : true,
+            "text" : "Go to the Wardrobe to change your clothes.",
+            "frame": 0
+        },
+        {
+            "isQuests" : true,
+            "text" : "Go to Julie's Bakery to meet with Julie.",
+            "frame" : 1
+        },
+        {
+            "isQuests": true,
+            "text" : "Help Julie clean the mess Mar made in the kitchen",
+            "frame" : 2
+        },
+        {
+            "isQuests" : true,
+            "text" : "Go to the Merchant next door and buy some eggs.",
+            "frame" : 3
+        },
+        {
+            "isQuests": true,
+            "text" : "Go Back to Julie's to make some cookies with Julie.",
+            "frame" : 4
+        },
+        {
+            "isQuests" : true,
+            "text" : "Go back to the Merchant to give him one of the cookies.",
+            "frame" : 5
+        }
+    ]
+}
